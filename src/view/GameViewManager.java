@@ -15,7 +15,7 @@ import model.SHIP;
 import model.SmallInfoLabel;
 
 public class GameViewManager {
-	
+	/* Tao anchorPane */
 	private AnchorPane gamePane;
 	private Scene gameScene;
 	private Stage gameStage;
