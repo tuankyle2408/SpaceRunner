@@ -181,7 +181,7 @@ public class ViewManager {
 	}
 	
 	
-	
+	/* Tao nut */
 	private void CreateButtons() {
 		createStartButton();
 		createScoresButton();
@@ -203,7 +203,7 @@ public class ViewManager {
 			}
 		});
 	}
-	
+	/* Tao nut diem dang bi loi*/
 	private void createScoresButton() {
 		SpaceRunnerButton scoresButton = new SpaceRunnerButton("SCORES");
 		AddMenuButtons(scoresButton);

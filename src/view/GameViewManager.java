@@ -199,7 +199,7 @@ public class GameViewManager {
 	
 
 	
-	
+	/* Tao thuyen */
 	private void createShip(SHIP choosenShip) {
 		ship = new ImageView(choosenShip.getUrl());
 		ship.setLayoutX(GAME_WIDTH/2);
